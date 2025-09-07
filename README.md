@@ -1,10 +1,6 @@
 # 👋 Hi, I’m Sean
 
----
-
 ![D&D](https://img.shields.io/badge/🎲_Dungeon%20Master-storyteller-purple?style=for-the-badge&logo=dungeonsanddragons)
-
----
 
 ✨ *“How are you going to win this day?!?!”*  
 
